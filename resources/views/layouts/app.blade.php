@@ -17,7 +17,9 @@
     </title>
 </head>
 
-<body>
+<!-- <body class="overflow-auto"> -->
+<body class="d-flex flex-column min-vh-100">
+
 
     @include('includes.header')
 
@@ -25,7 +27,7 @@
         @include('includes.hero')
     @endif
 
-    <div class="container">
+    <div class="container mb-5">
         <div class="row">
             <div class="col-8">
                 @yield('content')

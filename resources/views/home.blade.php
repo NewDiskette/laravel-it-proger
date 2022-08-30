@@ -10,7 +10,7 @@
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel maxime veniam quas repudiandae modi. Vitae, error? Quasi placeat, quo ipsam necessitatibus, atque architecto ad voluptatum qui laborum optio laudantium voluptate.
     </p>
     <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis molestias voluptas labore dolor esse. Eum, facilis. Odio possimus provident, obcaecati perspiciatis rem praesentium voluptatem perferendis iure? Voluptatem voluptatibus at repudiandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam similique harum necessitatibus vero hic veritatis nesciunt delectus dolor quo nam, voluptate soluta magni labore aut itaque quae atque velit eveniet?
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis molestias voluptas labore dolor esse. Eum, facilis. Odio possimus provident, obcaecati perspiciatis rem praesentium voluptatem perferendis iure? Voluptatem voluptatibus at repudiandae. Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam similique harum necessitatibus vero hic veritatis nesciunt delectus dolor quo nam, voluptate soluta magni labore aut itaque quae atque velit eveniet? Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem unde odit eum repellendus reiciendis rem modi quos quisquam praesentium hic, harum reprehenderit id dolor adipisci aspernatur! Obcaecati quisquam magnam cum.
     </p>
 @endsection
 
